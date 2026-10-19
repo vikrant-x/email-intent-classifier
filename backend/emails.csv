@@ -1,0 +1,49 @@
+text,intent
+"Where is my order?",Order_Status
+"Can you tell me when my package will arrive?",Order_Status
+"My order has not arrived yet",Order_Status
+"I want to know the status of my shipment",Order_Status
+"When will my delivery arrive?",Order_Status
+"My package is delayed",Order_Status
+"Please track my order",Order_Status
+"Can you give me the tracking information?",Order_Status
+"I want a refund",Refund
+"Please refund my payment",Refund
+"I would like to get my money back",Refund
+"How can I request a refund?",Refund
+"I was charged but want my money back",Refund
+"Please process my refund",Refund
+"When will I receive my refund?",Refund
+"I need a refund for my purchase",Refund
+"I want to cancel my order",Cancellation
+"Please cancel my purchase",Cancellation
+"Can I cancel my order?",Cancellation
+"I no longer want this order",Cancellation
+"Please cancel the shipment",Cancellation
+"I placed the order by mistake",Cancellation
+"How do I cancel my order?",Cancellation
+"I need to cancel my purchase",Cancellation
+"The product I received is damaged",Complaint
+"I am very unhappy with my purchase",Complaint
+"I received the wrong product",Complaint
+"The service was terrible",Complaint
+"I want to complain about my order",Complaint
+"My product is defective",Complaint
+"I am disappointed with your service",Complaint
+"The item I received is broken",Complaint
+"What are the features of this product?",Product_Inquiry
+"Can you tell me more about this product?",Product_Inquiry
+"Is this product available?",Product_Inquiry
+"What sizes are available?",Product_Inquiry
+"Do you have this product in black?",Product_Inquiry
+"What is the price of this product?",Product_Inquiry
+"Does this product come with a warranty?",Product_Inquiry
+"Can you provide more information about the product?",Product_Inquiry
+"I cannot log into my account",Account_Support
+"I forgot my password",Account_Support
+"How do I reset my password?",Account_Support
+"My account is locked",Account_Support
+"I am unable to access my account",Account_Support
+"I cannot sign in",Account_Support
+"Please help me recover my account",Account_Support
+"Why is my account not working?",Account_Support
